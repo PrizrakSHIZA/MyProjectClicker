@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+	<English>
+		<string name="back">Back</string>
+		<string name="volume">Volume</string>
+		<string name="language">Language:</string>
+		<string name="readytoraid">Ready to raid</string>
+		<string name="clicks">Clicks</string>
+		<string name="clicks:">Clicks:</string>
+		<string name="raidfinished">Raid finished!</string>
+		<string name="time">Time</string>
+		<string name="expirience">Expirience:</string>
+		<string name="money">Money:</string>
+	</English>
+	<Russian>
+		<string name="back">Назад</string>
+		<string name="volume">Громкость</string>
+		<string name="language">Язык:</string>
+		<string name="readytoraid">Готов к рейду</string>
+		<string name="clicks">Кликов</string>
+		<string name="clicks:">Кликов:</string>
+		<string name="raidfinished">Рейд окончен!</string>
+		<string name="time">Время</string>
+		<string name="expirience">Опыт:</string>
+		<string name="money">Монеты:</string>
+	</Russian>
+	<Ukrainian>
+		<string name="back">Назад</string>		
+		<string name="volume">Гучність</string>
+		<string name="language">Мова:</string>
+		<string name="readytoraid">Готовий до рейду</string>
+		<string name="clicks">Кліків</string>
+		<string name="clicks:">Кліків:</string>
+		<string name="raidfinished">Рейд завершено!</string>
+		<string name="time">Час</string>
+		<string name="expirience">Досвід:</string>
+		<string name="money">Монети:</string>
+	</Ukrainian>
+</Languages>
